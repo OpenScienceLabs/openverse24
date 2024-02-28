@@ -1,4 +1,8 @@
-# OpenVerse'24 Hackathon README
+<p align="center">
+  <img src="https://github.com/OpenScienceLabs/opensciencelabs.github.io/blob/main/theme/images/events/openverse24.png" width="400" alt="openverse logo">
+</p>
+
+# OpenVerse'24 
 
 Welcome to OpenVerse'24 Hackathon!
 
