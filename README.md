@@ -11,9 +11,9 @@ Welcome to OpenVerse'24 Hackathon!
 OpenVerse'24 is a beginner-friendly hackathon aimed at nurturing newcomers in the realm of open-source development. It provides an inclusive platform for individuals eager to dive into the world of collaborative programming and contribute to open-source projects. With a focus on education and hands-on experience, this hackathon aims to empower participants with essential skills in utilizing open-source libraries and tools.
 
 ## Requirements
-1. Follow Open Science Labs on Github, LinkedIn and Twitter.
-2. Follow Open Science Labs Incubator on Github.
-3. Star⭐ and Fork the repos: 1. SciCookie 2. Makim 3.Sugar
+1. Follow Open Science Labs on [Github](https://github.com/OpenScienceLabs),[LinkedIn](https://www.linkedin.com/company/open-science-labs/) and Twitter.
+2. Follow Open Science Labs Incubator on [Github](https://github.com/osl-incubator).
+3. Star⭐ and Fork the repos: 1.[SciCookie](https://github.com/osl-incubator/scicookie) 2.[Makim](https://github.com/osl-incubator/makim) 3.[Sugar](https://github.com/osl-incubator/sugar)
 4. That's it😎, you are good to start!🌠
 
 ##  Key Elements
